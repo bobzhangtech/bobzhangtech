@@ -1,16 +1,13 @@
 # Hey, I'm Bob Zhang 👋
 
-**Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder**
+Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=bobzhangtech&style=flat-square&color=6366f1) -->
 ![Focus](https://img.shields.io/badge/Focus-SaaS%20%26%20AI-6366f1?style=flat-square)
 ![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-10b981?style=flat-square)
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
+## 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -18,19 +15,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML**
+## 🤖 AI / ML
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-6366f1?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-6366f1?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-6366f1?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=flat-square)
 
-**Web & Cloud**
+## 🌐 Web & Cloud
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -40,25 +37,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobzhangtech&show_icons=true&hide_border=true&theme=default&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobzhangtech&layout=compact&hide_border=true&theme=default" width="48%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobzhangtech&hide_border=true&theme=default" width="98%" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🚀 Right Now
 
 - 🔭 **Building** — a SaaS product, turning ideas into a scalable real-world product
-- 🌱 **Learning** — deepening ML/AI skills, from classical models to LLMs and applied AI systems
-- 💬 **Ask me about** — local LLM inference, building AI agents with tool use, RAG pipelines, AI automation, or launching a SaaS from scratch
-- ⚡ **Fun fact** — I think the best software products start with a well-sharpened business instinct, not just clean code
+- 🌱 **Learning** — deepening ML/AI skills, from LLMs to applied AI systems
+- 💬 **Ask me about** — local LLM inference, AI agents with tool use, RAG pipelines, AI automation, or launching a SaaS from scratch
+- ⚡ **Fun fact** — the best software products start with a sharp business instinct, not just clean code
 
 ---
 
