@@ -46,8 +46,8 @@ Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder
 
 ---
 
-## 🌐 Find Me
+<!-- ## 🌐 Find Me
 
 [![Website](https://img.shields.io/badge/Website-bobzhangtech-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://bobzhangtech.github.io/personal-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bobzhangtech)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/bobzhangtech)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/bobzhangtech) -->
