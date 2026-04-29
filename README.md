@@ -1,4 +1,4 @@
-# Hey, I'm Bob Zhang 👋
+# Howdy y'all! I'm Bob Zhang 👋
 
 Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder
 
