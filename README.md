@@ -1,6 +1,6 @@
 # Howdy y'all! I'm Bob Zhang 👋
 
-Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder
+Tech entrepreneur · SaaS founder · AI/ML engineer · Full-stack developer
 
 ![Focus](https://img.shields.io/badge/Focus-SaaS%20%26%20AI-6366f1?style=flat-square)
 ![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-10b981?style=flat-square)
@@ -17,12 +17,12 @@ Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder
 
 ## 🤖 AI / ML
 
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI ChatGPT](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-6366f1?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-6366f1?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=flat-square)
@@ -30,8 +30,10 @@ Full-stack developer · AI/ML engineer · Tech entrepreneur · SaaS founder
 ## 🌐 Web & Cloud
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
